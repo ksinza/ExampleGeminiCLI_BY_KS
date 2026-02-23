@@ -21,8 +21,8 @@ src/
 ├── SalesProject.Application/    # Business Logic & DTOs
 ├── SalesProject.Infrastructure/ # EF Core & DB Access
 └── SalesProject.WebAPI/         # Controllers & Configuration
-
-## 🤖 How to Generate the Project
+```
+### .🤖 How to Generate the Project
 This repository serves as a prompt-based generator. Follow these steps to create the project:
 
 1. Prerequisites
