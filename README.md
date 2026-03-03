@@ -43,7 +43,7 @@ Language Note: The blueprint file gemini.md is written in Spanish. However, the 
 
 
 🔥 Key Advantages
-Flexibility: Unlike static templates, you can modify gemini.md to change entities or business rules, and the AI adapts the entire architecture.
+Flexibility: Unlike static templates, you can modify gemini.md to change entities or business rules, and the AI adapts the entire architecture. 
 
 Productivity: Reduces "Boilerplate Fatigue" by generating four layers and their dependencies in one go.
 
